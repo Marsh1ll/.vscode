@@ -4,7 +4,6 @@
 :root{
     --normal-font: 400;
     --bold-font: 600;
-    --bolder-font: 900;
     --primary-color: #fcb97d;
     --secondary-color: #c6b89e;
     --line-height: 1.7rem;
@@ -68,9 +67,7 @@ nav{
     z-index: 1;
 }
 
-.hamburger{
-    display: none;
-}
+
 .logo{
     font-size: 2rem;
     font-weight: 500;
